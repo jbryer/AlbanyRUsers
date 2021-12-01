@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meetup on Albany R Users</title>
+    <title>Meetup on Albany R Users Group</title>
     <link>https://AlbanyRUsers.org/categories/meetup/</link>
-    <description>Recent content in Meetup on Albany R Users</description>
+    <description>Recent content in Meetup on Albany R Users Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://AlbanyRUsers.org/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
@@ -25,10 +25,7 @@ Source code and resources are on Github here:</description>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://AlbanyRUsers.org/post/2019-02-28-intro_to_psa/</guid>
-      <description>Shiny is an R package designed to create web based applications using the R programming language. This talk will introduce the basic framework for creating interactive Shiny applications including user inputs, dynamic plots and tables, reactive programming, and creating data dashboards.
-Slides can be viewed here: https://r.bryer.org/shiny/Intro_to_Shiny/
-Recording of the talk: https://www.youtube.com/watch?v=W-DrXHqeqz8&amp;amp;t=5s
-Source code and resources are on Github here:</description>
+      <description>The use of propensity score methods (Rosenbaum &amp;amp; Rubin, 1983) for estimating causal eff ects in observational studies or certain kinds of quasi-experiments has been increasing in the social sciences (Thoemmes &amp;amp; Kim, 2011) and in medical research (Austin, 2008) in the last decade. Propensity score analysis (PSA) attempts to adjust selection bias that occurs due to the lack of randomization. Analysis is typically conducted in two phases where in phase I, the probability of placement in the treatment is estimated to identify matched pairs or clusters so that in phase II, comparisons on the dependent variable can be made between matched pairs or within clusters.</description>
     </item>
     
   </channel>
