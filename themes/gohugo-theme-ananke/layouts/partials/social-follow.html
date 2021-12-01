@@ -78,3 +78,9 @@
   {{- partial "new-window-icon.html" . -}}
 </a>
 {{ end }}
+{{ with .Param "meetup" }}
+<a href="{{ . }}" target="_blank" class="link-transition meetup link dib z-999 pt3 pt0-l mr1" title="Meetup link" rel="noopener" aria-label="join Meetup group——Opens in a new window">
+  {{ partial "svg/rss.svg" (dict "size" $icon_size) }}
+  {{- partial "new-window-icon.html" . -}}
+</a>
+{{ end }}

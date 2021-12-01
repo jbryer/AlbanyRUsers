@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Albany R Users"
+    title = "Albany R Users Group"
     weight = 1
     contentDir = "content"
 
@@ -27,7 +27,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "favicon.ico"
   site_logo = "/images/Albany_R_Users_Hex_logo.png"
   description = "Albany R Users Group"
   facebook = ""
@@ -38,10 +38,11 @@ enableRobotsTXT = true
   gitlab = ""
   linkedin = ""
   mastodon = ""
+  meetup = "https://www.meetup.com/Albany-R-Users-Group/"
   slack = "https://albanyrusers.slack.com"
   stackoverflow = ""
   rss = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   featured_image = "/images/BryerPhotography_Sleeping_Empire.png"
-  recent_posts_number = 5
+  recent_posts_number = 10
