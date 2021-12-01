@@ -1,0 +1,47 @@
+title = "Albany R Users Group"
+baseURL = "https://AlbanyRUsers.org"
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+resourceDir = "resources"
+
+# This is the default directory for Github Pages
+publishDir = "docs/"
+
+ignoreFiles = ["\\.pdf$", "\\.r$", "\\.R$", "\\.Rd$", "\\.txt$", "\\.csv$", "\\.rda$", "\\.Rda$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Albany R Users"
+    weight = 1
+    contentDir = "content"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = "/images/Albany_R_Users_Hex_logo.png"
+  description = "Albany R Users Group"
+  facebook = ""
+  twitter = "https://twitter.com/jbryer"
+  instagram = ""
+  youtube = "https://www.youtube.com/playlist?list=PLz6X7eB9XUp14vmgPqEnaZA9-PTc6du2L"
+  github = "https://github.com/jbryer/AlbanyRUsers"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = "https://albanyrusers.slack.com"
+  stackoverflow = ""
+  rss = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/BryerPhotography_Sleeping_Empire.png"
+  recent_posts_number = 5

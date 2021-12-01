@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meetup on Albany R Users</title>
+    <link>https://AlbanyRUsers.org/categories/meetup/</link>
+    <description>Recent content in Meetup on Albany R Users</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://AlbanyRUsers.org/categories/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Shiny</title>
+      <link>https://AlbanyRUsers.org/post/2021-11-30-intro_to_shiny/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://AlbanyRUsers.org/post/2021-11-30-intro_to_shiny/</guid>
+      <description>Shiny is an R package designed to create web based applications using the R programming language. This talk will introduce the basic framework for creating interactive Shiny applications including user inputs, dynamic plots and tables, reactive programming, and creating data dashboards.
+Slides can be viewed here: https://r.bryer.org/shiny/Intro_to_Shiny/
+Recording of the talk: https://www.youtube.com/watch?v=W-DrXHqeqz8&amp;amp;t=5s</description>
+    </item>
+    
+  </channel>
+</rss>
